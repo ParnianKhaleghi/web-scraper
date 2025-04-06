@@ -1,7 +1,7 @@
 
-```markdown
 
-### 📁 Project Structure
+
+## 📁 Project Structure
 
 ```
 your-project/
@@ -13,11 +13,11 @@ your-project/
 
 ---
 
-## 🔧 Configuration
+### 🔧 Configuration
 
 Before running the code, you need to create a file named `config.json` in the root directory of the project.
 
-### ✅ `config.json` Format
+#### ✅ `config.json` Format
 
 ```json
 {
@@ -31,7 +31,7 @@ Before running the code, you need to create a file named `config.json` in the ro
 - Replace `"https://your-custom-url.com/"` with the URL of the website you want the script to work with.
 - Make sure the JSON is valid and correctly formatted.
 
-### 📍 Example
+#### 📍 Example
 
 ```json
 {
@@ -86,6 +86,5 @@ pip install -r requirements.txt
 ## 🙋‍♂️ Author
 
 Created by [Parnian](https://github.com/ParnianKhaleghi)
-```
 
 
