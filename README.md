@@ -1,7 +1,7 @@
 
 ```markdown
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 your-project/
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ## 🙋‍♂️ Author
 
-Created by [Your Name](https://github.com/ParnianKhaleghi)
+Created by [Parnian](https://github.com/ParnianKhaleghi)
 ```
 
 
