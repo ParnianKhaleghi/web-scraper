@@ -1,3 +1,5 @@
+Sure! Here's the full `README.md` content in one markdown section, ready for you to copy and paste:
+
 ```markdown
 # 🌐 Web URL Config Loader
 
@@ -11,7 +13,6 @@ This project is a simple template for loading a user-defined website URL from a 
 your-project/
 ├── main.py
 ├── config.json
-├── config.py
 └── README.md
 ```
 
@@ -40,7 +41,7 @@ Before running the code, you need to create a file named `config.json` in the ro
 ```json
 {
   "config_path": {
-    "web_url": "https://google.com/"
+    "web_url": "https://myanimelist.net/"
   }
 }
 ```
@@ -64,18 +65,21 @@ Before running the code, you need to create a file named `config.json` in the ro
 
 ---
 
-
 ## 📦 Dependencies
 
-To run this project, make sure you have the following Python libraries installed:
-
-- `beautifulsoup4`
-- (Standard libraries used: `json`, `typing`, `urllib.request` — no need to install separately)
-
-Install dependencies using the following command:
+If your script requires any Python libraries, list them in a `requirements.txt` file and install with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+## 💡 Purpose
+
+This project is designed to demonstrate how to:
+- Load external configuration from a JSON file
+- Allow users to set a custom target URL for web-based scripts
 
 ---
 
@@ -87,5 +91,7 @@ pip install -r requirements.txt
 
 ## 🙋‍♂️ Author
 
-Created by [Parnian](https://github.com/ParnianKhaleghi)
+Created by [Your Name](https://github.com/your-username)
 ```
+
+Let me know if you'd like to include examples of how your Python code reads the `config.json` or interacts with the URL!
